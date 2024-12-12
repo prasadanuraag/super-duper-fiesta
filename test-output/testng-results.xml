@@ -10,22 +10,22 @@
     </groups>
     <test started-at="2024-12-04T22:27:36 IST" name="Default test" finished-at="2024-12-04T22:27:55 IST" duration-ms="19763">
       <class name="com.adivaclm.testscript.QuoteModule">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.adivaclm.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:36 IST" name="openBrowser" finished-at="2024-12-04T22:27:37 IST" duration-ms="1638" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.mvncrmzy.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:36 IST" name="openBrowser" finished-at="2024-12-04T22:27:37 IST" duration-ms="1638" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.adivaclm.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:37 IST" name="login" finished-at="2024-12-04T22:27:39 IST" duration-ms="1614" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.mvncrmzy.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:37 IST" name="login" finished-at="2024-12-04T22:27:39 IST" duration-ms="1614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createQuoteInvoice()[pri:0, instance:com.adivaclm.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:39 IST" name="createQuoteInvoice" finished-at="2024-12-04T22:27:55 IST" duration-ms="16254" status="PASS">
+        <test-method signature="createQuoteInvoice()[pri:0, instance:com.mvncrmzy.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:39 IST" name="createQuoteInvoice" finished-at="2024-12-04T22:27:55 IST" duration-ms="16254" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[createQuoteInvoiceis passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- createQuoteInvoice -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.adivaclm.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:55 IST" name="logout" finished-at="2024-12-04T22:27:55 IST" duration-ms="22" status="FAIL">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.mvncrmzy.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:55 IST" name="logout" finished-at="2024-12-04T22:27:55 IST" duration-ms="22" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchWindowException">
             <message>
               <![CDATA[no such window: target window already closed
@@ -103,11 +103,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.adivaclm.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:55 IST" name="closeBrowser" finished-at="2024-12-04T22:27:55 IST" duration-ms="174" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvncrmzy.testscript.QuoteModule@3b0090a4]" started-at="2024-12-04T22:27:55 IST" name="closeBrowser" finished-at="2024-12-04T22:27:55 IST" duration-ms="174" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- com.adivaclm.testscript.QuoteModule -->
+      </class> <!-- com.mvncrmzy.testscript.QuoteModule -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

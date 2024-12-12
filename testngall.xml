@@ -2,15 +2,15 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.adivaclm.testscript.ProductsModule"/>
-      <class name="com.adivaclm.testscript.StratergiesModule"/>
-      <class name="com.adivaclm.testscript.LeadsModule"/>
-      <class name="com.adivaclm.testscript.VendorModule"/>
-      <class name="com.adivaclm.testscript.PurchaseOrderModule"/>
-      <class name="com.adivaclm.testscript.InvoiceModule"/>
-      <class name="com.adivaclm.testscript.PriceBookModule"/>
-      <class name="com.adivaclm.testscript.QuoteModule"/>
-      <class name="com.adivaclm.testscript.ProspectsModule"/>
+      <class name="com.mvncrmzy.testscript.ProductsModule"/>
+      <class name="com.mvncrmzy.testscript.StratergiesModule"/>
+      <class name="com.mvncrmzy.testscript.LeadsModule"/>
+      <class name="com.mvncrmzy.testscript.VendorModule"/>
+      <class name="com.mvncrmzy.testscript.PurchaseOrderModule"/>
+      <class name="com.mvncrmzy.testscript.InvoiceModule"/>
+      <class name="com.mvncrmzy.testscript.PriceBookModule"/>
+      <class name="com.mvncrmzy.testscript.QuoteModule"/>
+      <class name="com.mvncrmzy.testscript.ProspectsModule"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

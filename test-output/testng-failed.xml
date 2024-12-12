@@ -3,7 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.adivaclm.testscript.InvoiceModule">
+      <class name="com.mvncrmzy.testscript.InvoiceModule">
         <methods>
           <include name="closeBrowser"/>
           <include name="login"/>
@@ -11,7 +11,7 @@
           <include name="createInvoice"/>
           <include name="openBrowser"/>
         </methods>
-      </class> <!-- com.adivaclm.testscript.InvoiceModule -->
+      </class> <!-- com.mvncrmzy.testscript.InvoiceModule -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

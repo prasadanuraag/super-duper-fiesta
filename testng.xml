@@ -5,7 +5,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.adivaclm.testscript.StratergiesModule"/>
+      <class name="com.mvncrmzy.testscript.StratergiesModule"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
